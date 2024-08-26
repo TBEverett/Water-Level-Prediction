@@ -2,35 +2,35 @@ Messstelle:                ;Achau, Br
 HZB-Nummer:                ;300012
 HD-Nummer:                 ;
 DBMS-Nummer:               ;3002000
-PorenGW-Gebiet:            ;250 Südliches Wiener Becken
-Grundwasserkörper:         ;Südl. Wiener Becken [DUJ]
+PorenGW-Gebiet:            ;250 Sï¿½dliches Wiener Becken
+Grundwasserkï¿½rper:         ;Sï¿½dl. Wiener Becken [DUJ]
 Sachgebiet:                ;UWQ
 Arbeitsgebiet:             ;GW
-Dienststelle:              ;HD-Niederösterreich
+Dienststelle:              ;HD-Niederï¿½sterreich
 Messstellenbetreiber:      ;Hydrographischer Dienst
-Höhenangaben [m ü.A.]:     ;gültig seit: ;10.10.2018
- Geländehöhe:              ;172,95
- Messpunkthöhe:            ;172,95
+Hï¿½henangaben [m ï¿½.A.]:     ;gï¿½ltig seit: ;10.10.2018
+ Gelï¿½ndehï¿½he:              ;172,95
+ Messpunkthï¿½he:            ;172,95
  Sohllage:                 ;169,70
  T-Messtiefe u.GOK:        ;3,20
 Geographische Koordinaten (Referenzellipsoid: Bessel 1841):
- gültig seit:              ;Länge (Grad,Min,Sek):    ;Breite  (Grad,Min,Sek):
+ gï¿½ltig seit:              ;Lï¿½nge (Grad,Min,Sek):    ;Breite  (Grad,Min,Sek):
   01.01.2019               ;16 23 13                 ;48 04 54
   01.01.2009               ;16 23 13                 ;48 04 54
   03.05.1940               ;16 23 15                 ;48 04 54
 Exportzeitreihe:           ;GWS,I,Mit,M,1,A,Z,0,,,
-Exportqualität:            ;MAXQUAL (3)
+Exportqualitï¿½t:            ;MAXQUAL (3)
 Mit Textausgabe:
   Nur Texte die in der Textrelation enthalten sind
   Texte in der Textrelation 30TCODVW.dbf
   Text:  ;Klartext:
-  Texte ohne '->' oder '<-' sind nur für diesen Zeitpunkt gültig
+  Texte ohne '->' oder '<-' sind nur fï¿½r diesen Zeitpunkt gï¿½ltig
   Texte mit '->' kennzeichnen den Beginn eines Textintervalls
   Texte mit '<-' kennzeichnen das Ende eines Textintervalls
 Exportzeitraum:            ;Datenbeginn; bis ;01.01.2022 00:00
-Hinweis:                   ;Der Intervallwert gilt bis zum nächsten Zeitpunkt mit einem Wert oder Lücke
+Hinweis:                   ;Der Intervallwert gilt bis zum nï¿½chsten Zeitpunkt mit einem Wert oder Lï¿½cke
 Werteformat:               ;2 Nachkommastellen
-Einheit:                   ;m ü.A.
+Einheit:                   ;m ï¿½.A.
 Werte:
 01.12.1940 00:00:00   ;   171,42 ;     
 01.01.1941 00:00:00   ;   171,47 ;     
@@ -43,7 +43,7 @@ Werte:
 01.08.1941 00:00:00   ;   171,40 ;     
 01.09.1941 00:00:00   ;   171,22 ;     
 01.10.1941 00:00:00   ;   171,14 ;     
-01.11.1941 00:00:00   ;Lücke     ;     
+01.11.1941 00:00:00   ;Lï¿½cke     ;     
 01.11.1942 00:00:00   ;   170,99 ;     
 01.12.1942 00:00:00   ;   170,98 ;     
 01.01.1943 00:00:00   ;   170,97 ;     
@@ -72,7 +72,7 @@ Werte:
 01.12.1944 00:00:00   ;   171,84 ;     
 01.01.1945 00:00:00   ;   171,72 ;     
 01.02.1945 00:00:00   ;   171,88 ;     
-01.03.1945 00:00:00   ;Lücke     ;     
+01.03.1945 00:00:00   ;Lï¿½cke     ;     
 01.11.1945 00:00:00   ;   171,18 ;     
 01.12.1945 00:00:00   ;   171,18 ;     
 01.01.1946 00:00:00   ;   171,18 ;     
@@ -987,4 +987,4 @@ Werte:
 01.10.2021 00:00:00   ;   171,37 ;     
 01.11.2021 00:00:00   ;   171,36 ;     
 01.12.2021 00:00:00   ;   171,51 ;     
-01.01.2022 00:00:00   ;Lücke         ; 
+01.01.2022 00:00:00   ;Lï¿½cke         ; 
